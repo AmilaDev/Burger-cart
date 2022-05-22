@@ -1,0 +1,17 @@
+.head {
+	font-family: 'Koulen', cursive;
+	background-color: #e39c05;
+	font-size: 40px;
+	height: 140px;
+
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+
+	width: 70vw;
+}
+
+.title {
+	color: black;
+	text-align: center;
+}

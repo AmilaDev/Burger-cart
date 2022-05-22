@@ -1,0 +1,64 @@
+[
+	{
+		"id": 1,
+		"name": "Beer Cheese",
+		"description": "Burger served on a pretzel bun with beer cheese dip, bacon bits, croutons, and green onions",
+		"price": 830,
+		"img": "../../assets/Beer-Cheese.jpg",
+		"quantity": 1
+	},
+
+	{
+		"id": 2,
+		"name": "Bacon",
+		"description": "Two slices of peppered bacon, mayo, pickles, provolone cheese, tomatoes, and shredded lettuce",
+		"price": 850,
+		"img": "../../assets/bacon.jpg",
+		"quantity": 1
+	},
+
+	{
+		"id": 3,
+		"name": "Crispy",
+		"description": "Peppered bacon, fried egg, pulled pork, BBQ sauce, and American cheese, topped with onion rings and splash of red hot sauce",
+		"price": 820,
+		"img": "../../assets/crispy.jpg",
+		"quantity": 1
+	},
+
+	{
+		"id": 4,
+		"name": "Jalapeño",
+		"description": "Spicy combination of pepper jack cheese, peppered bacon,and sliced jalapeños",
+		"price": 990,
+		"img": "../../assets/jalapeno.jpg",
+		"quantity": 1
+	},
+
+	{
+		"id": 5,
+		"name": "Guacamole",
+		"description": "Juicy burger topped with fresh guacamole, jalapeños, pepper jack cheese, and spicy sauce",
+		"price": 870,
+		"img": "../../assets/guac.jpg",
+		"quantity": 1
+	},
+
+	{
+		"id": 6,
+		"name": "Macaroni & Cheese",
+		"description": "Burger topped with extra cheesy macaroni and bacon bits",
+		"price": 940,
+		"img": "../../assets/macaroni-cheese.jpg",
+		"quantity": 1
+	},
+
+	{
+		"id": 7,
+		"name": "Mushrooms",
+		"description": "Mushrooms, mayo, and Swiss cheese",
+		"price": 750,
+		"img": "../../assets/veggie.jpg",
+		"quantity": 1
+	}
+]

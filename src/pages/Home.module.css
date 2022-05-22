@@ -1,0 +1,64 @@
+.container {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	width: 70vw;
+	margin: 0 auto;
+}
+
+.card {
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	line-height: 50px;
+	font-size: 30px;
+	width: 265px;
+
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	margin: 25px auto;
+}
+
+.image {
+	margin: 0 auto;
+}
+
+.name {
+	line-height: normal;
+}
+
+.description {
+	font-size: 15px;
+	line-height: normal;
+	width: 265px;
+}
+
+.add {
+	padding: 10px;
+	border-radius: 15px;
+	text-decoration: none;
+	border: none;
+}
+
+.add:hover {
+	background-color: #e39c05;
+}
+
+.cart {
+	background-color: #e4a600;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	position: fixed;
+	bottom: 25px;
+	right: 10px;
+
+	width: 42px;
+	height: 42px;
+	cursor: pointer;
+
+	border-radius: 50%;
+}
