@@ -1,6 +1,6 @@
 .head {
 	font-family: 'Koulen', cursive;
-	background-color: #e39c05;
+	background-color: #e5a900;
 	font-size: 40px;
 	height: 140px;
 
@@ -14,4 +14,9 @@
 .title {
 	color: black;
 	text-align: center;
+}
+@media (max-width: 650px) {
+	.head {
+		width: 80vw;
+	}
 }

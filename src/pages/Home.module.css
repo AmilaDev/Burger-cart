@@ -39,6 +39,7 @@
 	border-radius: 15px;
 	text-decoration: none;
 	border: none;
+	cursor: pointer;
 }
 
 .add:hover {
